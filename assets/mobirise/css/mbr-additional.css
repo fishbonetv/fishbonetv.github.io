@@ -1339,7 +1339,7 @@ body {
 }
 .cid-qyIiAhJ9U3 {
   padding-top: 15px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
 }
 .cid-qyCONzFgoN .navbar {
@@ -1957,7 +1957,7 @@ body {
 .cid-qyIiOY4Knk {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #2e2e2e;
+  background-color: #0f7699;
 }
 .cid-qyIiOY4Knk .media-container-row {
   flex-direction: column;
@@ -3537,4 +3537,9 @@ body {
 }
 .cid-qyDfe2Vsxa H2 {
   color: #ff3366;
+}
+.cid-qyIlxP15Vz {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #0f7699;
 }
