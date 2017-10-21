@@ -697,7 +697,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/iptv-channels-1000x658.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -710,13 +710,13 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "FisHbone IPTV propose toutes les stations Arab (Bein sport, Fatafeat), France( France 2, canal+), suisses, italiennes et arabes. La liste des arrangements ne cesse d'augmenter, avec chaque addition, vous découvrirez les nouveaux canaux directement dans votre gadget IPTV, sans intervention nécessaire de votre part. Le paquet offert par FisHbone IPTV sera également une plateforme de loisir et de divertissement, un assortiment de films et séries sera disponible dans la section VOD (Video On Demand).",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success display-4\" href=\"https://mobirise.com\">FOR WINDOWS</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbrib-save mbr-iconfont mbr-iconfont-btn\"></span>LISTE</a> ",
                 "overlayOpacity": "0.8"
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": false,
-                "showButtons": false,
+                "active": true,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": true,
@@ -724,11 +724,11 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "VIDEO SLIDE",
+                "title": "APPLICATION ET TEST",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "POUR OBTENIR UN CODE DE TEST VEUILLEZ TÉLÉCHARGER ET INSTALLER CET APPLICATION ET APRÈS NOUS CONTACTER SUR CE NUMÉRO POUR ENVOYER LE CODE DE TEST \n<br>\n<br><b><a href=\"tel:0022548708753\" class=\"text-success\">00225 48708753 </a>\n</b><br>\n<br>APPEL, WHATSAPP, VIBER, SMS\n<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://storage.googleapis.com/wzukusers/user-27188382/documents/59d9526adc6aecFUr2So/FisHboneTv_Final.apk\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>APPLICATION</a> "
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/3.jpg",
@@ -741,11 +741,11 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "IMAGE SLIDE",
+                "title": "COMMENT CA \r<div>MARCH&nbsp;</div>",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "<br>IL FAUT CONNECTION INTERNET AVEC UN \n<br>DES APPAREIL SUIVANTS: <br>-SMART TV\n<br>-ANDROID TV \n<br>-ANDROID BOX\n<br>-ANDROID PHONE \n<br>-IOS PHONE \n<br>-MAG 25XX \n<br>-PC\n<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary display-4\" href=\"https://www.youtube.com/watch?v=CRIgsAOlf90\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>VIDEO</a> "
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/1.jpg",
@@ -758,11 +758,11 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "FULL SCREEN SLIDER",
+                "title": "ABONNEMENT",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "text": "ABONNEMENT DISPONIBLE AVEC DECODEUR OU SANS DECODEUR",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ABONNEMENT</a> "
               }
             ]
           },
