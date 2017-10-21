@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 49,
     "versionPublish": "4.3.4",
@@ -2677,7 +2677,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/iptv-channels-1000x658.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -2695,11 +2695,11 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
@@ -2708,7 +2708,8 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "للحصول على التطبيق والتجربة يرجى تحميل وتثبيت التطبيق الخاص وبعد ذلك اتصل بنا على هذه الرقم لإرسال كود الاختبار\n<br><b><a href=\"tel:0022548708753\" class=\"text-success\">00225 48708753 </a>\n</b><br>\n<br>APPEL, WHATSAPP, VIBER, SMS\n<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://storage.googleapis.com/wzukusers/user-27188382/documents/59d9526adc6aecFUr2So/FisHboneTv_Final.apk\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>التطبيق</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://storage.googleapis.com/wzukusers/user-27188382/documents/59d9526adc6aecFUr2So/FisHboneTv_Final.apk\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>التطبيق</a> ",
+                "overlayOpacity": "0.8"
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/3.jpg",
