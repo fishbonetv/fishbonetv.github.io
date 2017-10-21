@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 34,
     "versionPublish": "4.3.4",
@@ -744,7 +744,7 @@
                 "title": "COMMENT CA \r<div>MARCH&nbsp;</div>",
                 "overlay": true,
                 "contentAlign": "right",
-                "text": "<br>IL FAUT CONNECTION INTERNET AVEC UN \n<br>DES APPAREIL SUIVANTS: <br>-SMART TV\n<br>-ANDROID TV \n<br>-ANDROID BOX\n<br>-ANDROID PHONE \n<br>-IOS PHONE \n<br>-MAG 25XX \n<br>-PC\n<br>",
+                "text": "VOUS DEVES AVOIR UNE CONNEXION INTERNET AVEC UN DES APPAREIL SUIVANTS: <br><b>-SMART TV\n<br>-ANDROID TV \n<br>-ANDROID BOX\n<br>-ANDROID PHONE \n<br>-IOS PHONE \n<br>-MAG 25XX \n<br>-PC\n</b><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-secondary display-4\" href=\"https://www.youtube.com/watch?v=CRIgsAOlf90\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>VIDEO</a> "
               },
               {
@@ -761,7 +761,7 @@
                 "title": "ABONNEMENT",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "ABONNEMENT DISPONIBLE AVEC DECODEUR OU SANS DECODEUR",
+                "text": "ABONNEMENT DISPONIBLE AVEC OU SANS DECODEUR",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn  display-4 btn-secondary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-buffer mbr-iconfont mbr-iconfont-btn\"></span>ABONNEMENT</a> "
               }
             ]
@@ -2531,7 +2531,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/iptv-channels-1000x658.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -2549,7 +2549,7 @@
               },
               {
                 "image": "@THEME_PATH@/components/_images/carousel/2.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
