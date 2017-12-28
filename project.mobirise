@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 58,
     "versionPublish": "4.3.4",
@@ -802,7 +802,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "POUR OBTENIR UN CODE DE TEST VEUILLEZ TÉLÉCHARGER ET INSTALLER CET APPLICATION ET APRÈS NOUS CONTACTER SUR CE NUMÉRO POUR ENVOYER LE CODE DE TEST \n<br>\n<br><b><a href=\"tel:0022548708753\" class=\"text-success\">00225 48708753 </a>\n</b><br>\n<br>APPEL, WHATSAPP, VIBER, SMS\n<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://storage.googleapis.com/wzukusers/user-27188382/documents/59d9526adc6aecFUr2So/FisHboneTv_Final.apk\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-android mbr-iconfont mbr-iconfont-btn\"></span>ANDROID</a> <a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://itunes.apple.com/us/app/cloud-stream-iptv-player/id1138002135\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span>IOS</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://storage.googleapis.com/wzukusers/user-27188382/documents/59d9526adc6aecFUr2So/FisHboneTv_Final.apk\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-android mbr-iconfont mbr-iconfont-btn\"></span>ANDROID</a> <a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://itunes.apple.com/us/app/cloud-stream-iptv-player/id1138002135\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span>IOS</a> ",
                 "overlayOpacity": "0.8"
               },
               {
