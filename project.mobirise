@@ -1,10 +1,10 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 58,
-    "versionPublish": "4.5.2",
+    "versionPublish": "4.3.4",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -802,7 +802,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "POUR OBTENIR UN CODE DE TEST VEUILLEZ TÉLÉCHARGER ET INSTALLER CET APPLICATION ET APRÈS NOUS CONTACTER SUR CE NUMÉRO POUR ENVOYER LE CODE DE TEST \n<br>\n<br><b><a href=\"tel:0022548708753\" class=\"text-success\">00225 48708753 </a>\n</b><br>\n<br>APPEL, WHATSAPP, VIBER, SMS\n<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://storage.googleapis.com/wzukusers/user-27188382/documents/59d9526adc6aecFUr2So/FisHboneTv_Final.apk\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>APPLICATION</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://storage.googleapis.com/wzukusers/user-27188382/documents/59d9526adc6aecFUr2So/FisHboneTv_Final.apk\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-android mbr-iconfont mbr-iconfont-btn\"></span>ANDROID</a> <a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://itunes.apple.com/us/app/cloud-stream-iptv-player/id1138002135\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span>IOS</a> ",
                 "overlayOpacity": "0.8"
               },
               {
@@ -2708,7 +2708,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "للحصول على التطبيق والتجربة يرجى تحميل وتثبيت التطبيق الخاص وبعد ذلك اتصل بنا على هذه الرقم لإرسال كود الاختبار\n<br><b><a href=\"tel:0022548708753\" class=\"text-success\">00225 48708753 </a>\n</b><br>\n<br>APPEL, WHATSAPP, VIBER, SMS\n<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://storage.googleapis.com/wzukusers/user-27188382/documents/59d9526adc6aecFUr2So/FisHboneTv_Final.apk\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-save mbr-iconfont mbr-iconfont-btn\"></span>التطبيق</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://storage.googleapis.com/wzukusers/user-27188382/documents/59d9526adc6aecFUr2So/FisHboneTv_Final.apk\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-android mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;لاجهزة الاندرويد</a> <a data-app-btn=\"true\" class=\"btn  btn-primary display-4\" href=\"https://itunes.apple.com/us/app/cloud-stream-iptv-player/id1138002135\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-apple mbr-iconfont mbr-iconfont-btn\"></span>لاجهزة الايفون&nbsp;</a> ",
                 "overlayOpacity": "0.8"
               },
               {
