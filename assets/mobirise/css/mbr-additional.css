@@ -1338,8 +1338,8 @@ body {
   min-height: 100vh;
 }
 .cid-qyInXvTglG {
-  padding-top: 30px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
 }
 .cid-qyInXvTglG .media-container-row {
@@ -2007,17 +2007,17 @@ body {
 .cid-qyDfe2Vsxa H2 {
   color: #ff3366;
 }
-.cid-qyIiOY4Knk {
-  padding-top: 30px;
-  padding-bottom: 15px;
+.cid-qFnCXXpoQB {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
 }
-.cid-qyIiOY4Knk .media-container-row {
+.cid-qFnCXXpoQB .media-container-row {
   flex-direction: column;
   justify-content: center;
   align-items: center;
 }
-.cid-qyIiOY4Knk .media-container-row .foot-menu {
+.cid-qFnCXXpoQB .media-container-row .foot-menu {
   list-style: none;
   display: flex;
   justify-content: center;
@@ -2025,13 +2025,13 @@ body {
   padding: 0;
   margin-bottom: 0;
 }
-.cid-qyIiOY4Knk .media-container-row .foot-menu li {
+.cid-qFnCXXpoQB .media-container-row .foot-menu li {
   padding: 0 1rem 1rem 1rem;
 }
-.cid-qyIiOY4Knk .media-container-row .foot-menu li p {
+.cid-qFnCXXpoQB .media-container-row .foot-menu li p {
   margin: 0;
 }
-.cid-qyIiOY4Knk .media-container-row .social-list {
+.cid-qFnCXXpoQB .media-container-row .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -2040,29 +2040,29 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-qyIiOY4Knk .media-container-row .social-list .mbr-iconfont-social {
+.cid-qFnCXXpoQB .media-container-row .social-list .mbr-iconfont-social {
   font-size: 1.5rem;
   color: #ffffff;
 }
-.cid-qyIiOY4Knk .media-container-row .social-list .soc-item {
+.cid-qFnCXXpoQB .media-container-row .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qyIiOY4Knk .media-container-row .social-list a {
+.cid-qFnCXXpoQB .media-container-row .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qyIiOY4Knk .media-container-row .social-list a:hover {
+.cid-qFnCXXpoQB .media-container-row .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qyIiOY4Knk .media-container-row .social-list {
+  .cid-qFnCXXpoQB .media-container-row .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
 }
-.cid-qyIiOY4Knk .media-container-row .row-copirayt {
+.cid-qFnCXXpoQB .media-container-row .row-copirayt {
   word-break: break-word;
 }
 .cid-qyCONzFgoN .navbar {
@@ -3591,10 +3591,63 @@ body {
 .cid-qyDfe2Vsxa H2 {
   color: #ff3366;
 }
-.cid-qyIlxP15Vz {
-  padding-top: 15px;
-  padding-bottom: 15px;
+.cid-qFnBTDcfh3 {
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #2e2e2e;
+}
+.cid-qFnBTDcfh3 .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cid-qFnBTDcfh3 .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-qFnBTDcfh3 .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-qFnBTDcfh3 .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-qFnBTDcfh3 .media-container-row .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-qFnBTDcfh3 .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.cid-qFnBTDcfh3 .media-container-row .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qFnBTDcfh3 .media-container-row .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qFnBTDcfh3 .media-container-row .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qFnBTDcfh3 .media-container-row .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-qFnBTDcfh3 .media-container-row .row-copirayt {
+  word-break: break-word;
 }
 .cid-qyCONzFgoN .navbar {
   padding: .5rem 0;
