@@ -1821,6 +1821,21 @@ body {
 .cid-roefFJXybW .mbr-section-subtitle {
   font-style: italic;
 }
+.cid-roegeU7aT5 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #0f7699, #ff7f9f);
+}
+@media (min-width: 992px) {
+  .cid-roegeU7aT5 .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-roegeU7aT5 .mbr-figure {
+    padding-top: 3rem;
+  }
+}
 .cid-qyCONzFgoN .navbar {
   padding: .5rem 0;
   background: #149dcc;
