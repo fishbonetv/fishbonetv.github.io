@@ -1807,17 +1807,19 @@ body {
     flex-shrink: 0;
   }
 }
-.cid-ro9VPBnI9L {
-  background: #ffffff;
+.cid-roefFJXybW {
+  background-image: url("../../../assets/images/background3.jpg");
 }
-.cid-ro9VPBnI9L .video-block {
-  margin: auto;
-  width: 100% !important;
+.cid-roefFJXybW h1 {
+  color: #616161;
 }
-@media (max-width: 768px) {
-  .cid-ro9VPBnI9L .video-block {
-    width: 100% !important;
-  }
+.cid-roefFJXybW h2,
+.cid-roefFJXybW h3,
+.cid-roefFJXybW p {
+  color: #767676;
+}
+.cid-roefFJXybW .mbr-section-subtitle {
+  font-style: italic;
 }
 .cid-qyCONzFgoN .navbar {
   padding: .5rem 0;
